@@ -1,0 +1,47 @@
+[
+    {
+        "service": 705,
+        "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+        "service_name": "Birbir Town Administrative Mayor Office"
+    },
+    {
+        "service": 704,
+        "image": "https://gadm.org/img/480/gadm/ETH/southernnationsnationalitiesandpeoples/gamogofa/mirababaya/ETH_southernnationsnationalitiesandpeoples_gamogofa_mirababaya.png",
+        "service_name": "Mirab Abay Wereda Agriculture Office"
+    },
+    {
+        "service": 703,
+        "image": "https://gadm.org/img/480/gadm/ETH/southernnationsnationalitiesandpeoples/gamogofa/mirababaya/ETH_southernnationsnationalitiesandpeoples_gamogofa_mirababaya_adm3.png",
+        "service_name": "Mirab Abay Wereda Revenues Office"
+    },
+    {
+        "service": 695,
+        "image": "https://gadm.org/img/480/gadm/ETH/southernnationsnationalitiesandpeoples/gamogofa/mirababaya/ETH_southernnationsnationalitiesandpeoples_gamogofa_mirababaya_adm3.png",
+        "service_name": "Yebirbir Stone Product Union"
+    },
+    {
+        "service": 698,
+        "image": "https://static.scientificamerican.com/sciam/cache/file/7A715AD8-449D-4B5A-ABA2C5D92D9B5A21_source.png",
+        "service_name": "Yedelbo Kebele Administrative Office"
+    },
+    {
+        "service": 90,
+        "image": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+        "service_name": "Dimeka Lodge"
+    },
+    {
+        "service": 113,
+        "image": "https://images.unsplash.com/photo-1606567595334-d39972c85dbe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "service_name": "Paradize Lodje"
+    },
+    {
+        "service": 2,
+        "image": "https://images.unsplash.com/photo-1497206365907-f5e630693df0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "service_name": "Geremech Restaurant"
+    },
+    {
+        "service": 1,
+        "image": "https://images.unsplash.com/photo-1591198936750-16d8e15edb9e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGJpcmR8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "service_name": "Sami Lodge"
+    }
+]
