@@ -1,0 +1,47 @@
+[
+    {
+        "service": 705,
+        "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+        "service_name": "Birbir Town Administrative Mayor Office"
+    },
+    {
+        "service": 704,
+        "image": "https://gadm.org/img/480/gadm/ETH/southernnationsnationalitiesandpeoples/gamogofa/mirababaya/ETH_southernnationsnationalitiesandpeoples_gamogofa_mirababaya.png",
+        "service_name": "Mirab Abay Wereda Agriculture Office"
+    },
+    {
+        "service": 703,
+        "image": "https://gadm.org/img/480/gadm/ETH/southernnationsnationalitiesandpeoples/gamogofa/mirababaya/ETH_southernnationsnationalitiesandpeoples_gamogofa_mirababaya_adm3.png",
+        "service_name": "Mirab Abay Wereda Revenues Office"
+    },
+    {
+        "service": 695,
+        "image": "https://gadm.org/img/480/gadm/ETH/southernnationsnationalitiesandpeoples/gamogofa/mirababaya/ETH_southernnationsnationalitiesandpeoples_gamogofa_mirababaya_adm3.png",
+        "service_name": "Yebirbir Stone Product Union"
+    },
+    {
+        "service": 698,
+        "image": "https://static.scientificamerican.com/sciam/cache/file/7A715AD8-449D-4B5A-ABA2C5D92D9B5A21_source.png",
+        "service_name": "Yedelbo Kebele Administrative Office"
+    },
+    {
+        "service": 90,
+        "image": "https://www.travelanddestinations.com/wp-content/uploads/2019/03/Ethiopia-landscapes-1024x682.jpg",
+        "service_name": "Dimeka Lodge"
+    },
+    {
+        "service": 113,
+        "image": "https://www.travelanddestinations.com/wp-content/uploads/2019/03/Simien-Mountains-landscapes.jpeg",
+        "service_name": "Paradize Lodje"
+    },
+    {
+        "service": 2,
+        "image": "https://static.wixstatic.com/media/fad24f_120375e4c245440f9e9480eaf89744f8~mv2_d_4600_3067_s_4_2.jpg/v1/fill/w_1920,h_651,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/fad24f_120375e4c245440f9e9480eaf89744f8~mv2_d_4600_3067_s_4_2.jpg",
+        "service_name": "Geremech Restaurant"
+    },
+    {
+        "service": 1,
+        "image": "https://static.wixstatic.com/media/fad24f_8f432082be0348f1a885ba66a4705dee~mv2.jpg/v1/fill/w_1118,h_745,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/fad24f_8f432082be0348f1a885ba66a4705dee~mv2.jpg",
+        "service_name": "Sami Lodge"
+    }
+]
